@@ -1,0 +1,7 @@
+{
+  "name": "PROTABS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
